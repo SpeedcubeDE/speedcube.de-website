@@ -70,7 +70,7 @@ Bildquelle: www.cubikon.de
 </td><td>
 <a name="cube5"></a><br />
 <h2>Speed Cube Ultimate 4x4 von <a href="http://www.cubikon.de">Cubikon.de</a></h2>
-Der die Nase voll vom hakelnden Original Rubiks Revenge hat, der kann sich bei Cubikon.de den SCU4 kaufen. Er dreht sich sehr gut und ist sehr robust. auﬂerdem hat er, wie die meiﬂten anderen Cubikon-Produkte auch, Longlife-Sticker, welche wirklich ewig halten und dazu noch einen guten Halt geben.<br />
+Der die Nase voll vom hakelnden Original Rubiks Revenge hat, der kann sich bei Cubikon.de den SCU4 kaufen. Er dreht sich sehr gut und ist sehr robust. au√üerdem hat er, wie die mei√üten anderen Cubikon-Produkte auch, Longlife-Sticker, welche wirklich ewig halten und dazu noch einen guten Halt geben.<br />
 Wenn man ihn etwas einspielt, dann kann man mit diesem 4x4x4 Cube Zugfolgen locker ausf&uuml;hren, ohne das der W&uuml;rfel hakt. Einer der besten 4x4x4 Zauberw&uuml;rfel, den ich je getestet habe.<br />
 <b>Dieser Cube ist sehr f&uuml;r das Speedcubing geeignet und dreht sich geschmeidig. Er hakt lange nicht so oft wie der normale Rubiks Revenge.</b><br />
 Preis: 27,95&euro; auf <a href="http://www.cubikon.de">www.cubikon.de</a><br />

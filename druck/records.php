@@ -47,7 +47,7 @@ if ((time()-$limit) > $update_time) {
 	$text = "";
 	$text .= time().'[TIME_SPLITTER]';
 	
-	$text .= '<b>Stand: '.date("d. m. Y H:i").'</b><br /><small>Alle Angaben ohne Gew‰hr!</small><br /><br />';
+	$text .= '<b>Stand: '.date("d. m. Y H:i").'</b><br /><small>Alle Angaben ohne Gew√§hr!</small><br /><br />';
 	
 	$text .= '<table cellpadding="4" cellspacing="16" border="0"><tr><td><b>Top 20 - Welt</b></td><td><b>Top 20 - Europa</b></td></tr>
 <tr><td>';

@@ -27,7 +27,7 @@ Nun sollte man die 1. Ebene selber l&ouml;sen k&ouml;nnen!<br /><br />
 <h2>Schritt 2: Ecken der 2. Ebene platzieren</h2>
 
 <div style="float:right; padding-left:10px;"><img src="images/mini5.gif" alt="Symbol" border="0" /></div>
-Im 2. Schritt drehen wir den W&uuml;rfel um, sodass weiﬂ nun unten (D) ist. In diesem Tutorial habe ich ja die wei&szlig;e Seite als Startseite gew&auml;hlt, also ist unsere neue U-Ebene nun die gelbe Ebene. Man muss die Farbe von U wissen, damit man sehen kann, ob eine Ecke bereits am richtigen Platz ist.
+Im 2. Schritt drehen wir den W&uuml;rfel um, sodass wei√ü nun unten (D) ist. In diesem Tutorial habe ich ja die wei&szlig;e Seite als Startseite gew&auml;hlt, also ist unsere neue U-Ebene nun die gelbe Ebene. Man muss die Farbe von U wissen, damit man sehen kann, ob eine Ecke bereits am richtigen Platz ist.
 Wie die Ecke ausgerichtet ist, ist noch egal, es m&uuml;ssen nur die Farben stimmen!!<br />Eine 'richtige' Ecke siehst du am Bild rechts.<br /><br />
 
 Drehe U solange, bis mindestens eine Ecke an der richtigen Position ist. Wenn nicht alle anderen Ecken an ihrer richtigen Position sind, dann musst du schauen, welche Ecken vertauscht werden m&uuml;ssen. Dazu gibt es ein paar Algorithmen (auf den Bildern ist die Oberansicht dargestellt):<br />

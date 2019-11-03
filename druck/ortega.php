@@ -1,4 +1,4 @@
-Folgendes Tutorial zeigt die sogenannte Ortega Methode. Diese ist die meiﬂtverwendeste Speedcubing Methode f¸r den 2x2x2 Cube.<hr /><br />
+Folgendes Tutorial zeigt die sogenannte Ortega Methode. Diese ist die mei√ütverwendeste Speedcubing Methode f√ºr den 2x2x2 Cube.<hr /><br />
 
 Wie funktioniert die Ortega Methode?<br />
 <ol>
@@ -16,7 +16,7 @@ Die erste Ebene k&ouml;nnte dann so aussehen:<br />
 <img border="0" alt="2x2x2 Schaubild" src="images/ortega1.gif" /><br />
 
 <a name="step2"><h2>gegen&uuml;berliegende Fl&auml;che orientieren (OLL)</h2></a>
-Jetzt musst du die zweite Ebene mit dem sogenannten OLL (siehe Fridrich-Methode) orientieren, d.h. du drehst alle Ecken der zweiten Ebene so, dass anschlieﬂend zwei gegen&uuml;berliegende Seiten nur noch einfarbig sind.<br />
+Jetzt musst du die zweite Ebene mit dem sogenannten OLL (siehe Fridrich-Methode) orientieren, d.h. du drehst alle Ecken der zweiten Ebene so, dass anschlie√üend zwei gegen&uuml;berliegende Seiten nur noch einfarbig sind.<br />
 Dazu gibt es folgende Algorithmen: (Sicht immer von oben; unterer Rand des Bildes = Front-Seite)<br />
 <table>
 <tr><td><img border="0" alt="2x2x2 Schaubild" src="images/ortega2.gif" /></td><td><code>(R2 D) (R' U2) (R D') (R' U2 R')</code>, oder einfach<br /><code>y F R U R' U' F'</code></td></tr>
@@ -30,7 +30,7 @@ Dazu gibt es folgende Algorithmen: (Sicht immer von oben; unterer Rand des Bilde
 
 <a name="step3"><h2>restliche Steine sortieren (XLL)</h2></a>
 Wenn du die Steine orientiert hast, musst du sie noch an die richtige Position bringen.
-Das machst du mit beiden Ebenen in einem Algorithmus, dem sogenannten XLL (extended last layer), welches eigentlich auch PBL (permutation of both layers) heiﬂen k&ouml;nnte, da ja beide Ebenen permutiert (sortiert) werden. Falls n&ouml;tig musst du vorher und/oder nachher noch U, U' oder U2 ausf&uuml;hren.<br /><br />
+Das machst du mit beiden Ebenen in einem Algorithmus, dem sogenannten XLL (extended last layer), welches eigentlich auch PBL (permutation of both layers) hei√üen k&ouml;nnte, da ja beide Ebenen permutiert (sortiert) werden. Falls n&ouml;tig musst du vorher und/oder nachher noch U, U' oder U2 ausf&uuml;hren.<br /><br />
 
 Hier die Algorithmen:<br />
 <table>

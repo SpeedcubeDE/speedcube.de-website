@@ -8,7 +8,7 @@ if ($bg_saved) echo '<b><font color="green">Hintergrund gespeichert. Sp&auml;tes
 ?> 
 <form action="#" method="get">
 <select name="background">
-<option value="">Homepage-Hintergrund ausw‰hlen...</option>
+<option value="">Homepage-Hintergrund ausw√§hlen...</option>
 <option value="bg.gif">Graue Streifen (dunkel)</option>
 <option value="bg3.gif">Graue Streifen (hell)</option>
 <option value="background.gif">verwischte Streifen (lila)</option>

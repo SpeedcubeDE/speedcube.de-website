@@ -47,7 +47,7 @@ Einer der besten 4x4 Cubes soll der von mefferts.com sein, aber auch der SCU4 vo
 
 <a name="anker7"></a>
 <b>Wo bekomme ich einen guten 2x2x2 Speedcube her?</b><br />
-Kurze Antwort: Das groﬂe 2x2x2 Modell auf Cubikon.de f&uuml;r 8,95Ä ist ein guter 2x2 Cube. Auch der LanLan 2x2 Cube ist sehr beliebt (falls nicht sogar an Platz 1) und l&auml;sst sich in diversen Shops kaufen (siehe <a href="shops.php">Websites & Shops</a>)<br /><br />
+Kurze Antwort: Das gro√üe 2x2x2 Modell auf Cubikon.de f&uuml;r 8,95‚Ç¨ ist ein guter 2x2 Cube. Auch der LanLan 2x2 Cube ist sehr beliebt (falls nicht sogar an Platz 1) und l&auml;sst sich in diversen Shops kaufen (siehe <a href="shops.php">Websites & Shops</a>)<br /><br />
 
 <a name="anker8"></a>
 <b>Wo bekomme ich gute 5x5x5, 6x6x6 und 7x7x7 Speedcubes her?</b><br />

@@ -14,7 +14,7 @@ Man darf den W&uuml;rfel nicht ganz festhalten sondern sollte nur ein paar Finge
     WICHTIG: Die Ringfinger dienen nicht zwingend f&uuml;r D-Bewegungen, mehr dazu weiter unten...</li>
 </ul>
 </td><td>
-<img border="0" alt="Stellen 1-4 am Würfel" src="images/fingertricks1.gif" />
+<img border="0" alt="Stellen 1-4 am WÃ¼rfel" src="images/fingertricks1.gif" />
 </td></tr></table><br /><br /><br />
 
 <b>2.: Bewegungen mit einem Finger</b><br />
@@ -30,7 +30,7 @@ Manchmal bietet es sich auch an, D und D' mit dem kleinen Finger zu drehen (Manc
 Wenn man U2 gegeben hat, dann kann man einen sogenannten Double Trigger machen, das hei&szlig;t, dass man die obere Ebene 2x dreht... aber nicht 2x mit dem Zeigefinger!<br />
 Um noch mehr Zeit gewinnen zu k&ouml;nnen, kann man die 2. Bewegung mit dem Mittelfinger ausf&uuml;hren. Allerdings ist dieser Trick nicht so wichtig. Wenn man aber schon Zeiten unter 30-40 Sekunden schafft, dann k&ouml;nnte man sich diesen Doppelbewegungstrick schon langsam angew&ouml;hnen!<br /><br />
 
-Dasselbe gilt auch für D2, welches man mit dem kleinen und dem Ringfinger drehen k&ouml;nnte. Es gibt immer wieder Cuber, die diese Variante bevorzugen.<br /><br /><br />
+Dasselbe gilt auch fÃ¼r D2, welches man mit dem kleinen und dem Ringfinger drehen k&ouml;nnte. Es gibt immer wieder Cuber, die diese Variante bevorzugen.<br /><br /><br />
 
 
 <b>4.: Bewegungen mit einer Hand</b><br />

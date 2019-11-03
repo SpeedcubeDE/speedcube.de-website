@@ -13,9 +13,9 @@ if (isset($_GET['background'])) {
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Speedcube.de - <?php $sitename = explode('/',str_replace('_',' ',substr($_SERVER['SCRIPT_NAME'],1,strlen($_SERVER['SCRIPT_NAME'])-5))); echo ucfirst($sitename[count($sitename)-1]); ?> - Alles übers Speedcubing und den Rubiks Cube - Lösungen, Forum, Tricks, Quellen, ...</title>
+<title>Speedcube.de - <?php $sitename = explode('/',str_replace('_',' ',substr($_SERVER['SCRIPT_NAME'],1,strlen($_SERVER['SCRIPT_NAME'])-5))); echo ucfirst($sitename[count($sitename)-1]); ?> - Alles Ã¼bers Speedcubing und den Rubiks Cube - LÃ¶sungen, Forum, Tricks, Quellen, ...</title>
 <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
-<meta name="description" content="Alles über das Speedcubing (Zauberwürfel möglichst schnell lösen auf Zeit). Lern hier, wie du den Rubiks Cube löst! Lösungen, Forum, Tricks und vieles mehr. z.B. Informationen und Tutorials zu der LbL- (Anfänger-) und der Fridrich Methode." />
+<meta name="description" content="Alles Ã¼ber das Speedcubing (ZauberwÃ¼rfel mÃ¶glichst schnell lÃ¶sen auf Zeit). Lern hier, wie du den Rubiks Cube lÃ¶st! LÃ¶sungen, Forum, Tricks und vieles mehr. z.B. Informationen und Tutorials zu der LbL- (AnfÃ¤nger-) und der Fridrich Methode." />
 <style type="text/css">
 
 BODY {margin:0; padding:0; background: #000000 url(images/<?php
@@ -104,7 +104,7 @@ code {font-family: 'Arial Bold', Arial; font-size: 14px;}
             <li type="square" onmouseover="li(this,'circle')" onmouseout="li(this,'square')"><a href="rubik.php">Geschichte des Cubes</a></li>
         </ul>
     </td><td valign="top">
-    	<img border="0" src="images/button10.jpg" alt="Lösungsmethoden" />
+    	<img border="0" src="images/button10.jpg" alt="LÃ¶sungsmethoden" />
         <ul>
         	<li type="square" onmouseover="li(this,'circle')" onmouseout="li(this,'square')"><a href="notation.php">Notation lernen</a></li>
             <li type="square" onmouseover="li(this,'circle')" onmouseout="li(this,'square')"><a href="lbl.php">Beginner (LbL)</a></li>
@@ -161,10 +161,10 @@ code {font-family: 'Arial Bold', Arial; font-size: 14px;}
     <td><a href="index.php"><img src="images/button1b.jpg" border="0" alt="Startseite" /></a></td>
     <td><a href="about.php"><img src="images/button2.jpg" border="0" alt="Speedcubing Infos" /></a></td>
     <td><a href="forum/" target="_blank"><img src="images/button4.jpg" border="0" alt="Forum" /></a></td>
-    <td><a href="http://speedcube.de/forum/showthread.php?tid=1008" target="_blank"><img src="images/button5.jpg" border="0" alt="FAQ (meißt gestellte Fragen)" /></a></td>
+    <td><a href="http://speedcube.de/forum/showthread.php?tid=1008" target="_blank"><img src="images/button5.jpg" border="0" alt="FAQ (meiÃŸt gestellte Fragen)" /></a></td>
     <!--<td><a href="timer.php" target="_blank"><img src="images/button9.jpg" border="0" alt="Speedcube.de Timer" /></a></td>-->
 	<td><a href="http://ocs.speedcube.de/" target="_blank"><img id="ocsbutton" src="images/button15.jpg" border="0" alt="Online-Cubing-System" /></a></td>
-    <td><a href="http://google.com?q=Ich+habe+das+G%C3%A4stebuch+entfernt,+doch+der+Knopf+bleibt"><img src="images/button8.jpg" border="0" alt="Gästebuch" /></a></td>
+    <td><a href="http://google.com?q=Ich+habe+das+G%C3%A4stebuch+entfernt,+doch+der+Knopf+bleibt"><img src="images/button8.jpg" border="0" alt="GÃ¤stebuch" /></a></td>
     </tr></table>
     </td>
     <td style="background:url(images/des_.png) repeat;height:30px;width:16px;overflow:visible;"></td>

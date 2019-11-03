@@ -3,7 +3,7 @@ Ich verwende Notations-K&uuml;rzel zum Angeben von bestimmten Positionen am Cube
 Au&szlig;erdem solltest du die volle <a href="notation.php" target="_blank">Notation</a> beherrschen.
 <hr /><br /><br />
 
-Gilles Roux und Thomas Stadler entwickelten eine relativ auﬂergew&ouml;hnliche Methode, den Rubik¥s Cube zu L&ouml;sen.<br />
+Gilles Roux und Thomas Stadler entwickelten eine relativ au√üergew&ouml;hnliche Methode, den Rubik¬¥s Cube zu L&ouml;sen.<br />
 Bei dieser Methode werden zuerst zwei 3x2x1-Bl&ouml;cke nebeneinander gebaut, dann die Ecken der oberen Ebene gel&ouml;st und zum Schluss 
 die restlichen Edges in Position gebracht.
 
@@ -20,14 +20,14 @@ Ich habe mir f&uuml;r die Roux Methode eine Start-Farbe ausgesucht, mit der ich 
 Au&szlig;erdem sollte man f&uuml;r die Roux Methode folgendes wissen: Rot ist gegen&uuml;ber von Orange, Blau ist gegen&uuml;ber von Gr&uuml;n und Wei&szlig; ist gegen&uuml;ber von Gelb.<br /><br />
 
 <a name="step1"><h2>Die 2 3x2x1 Bl&ouml;cke</h2></a>
-Es werden (wie schon gesagt) 2 3x2x1 Bl&ouml;cke (unten ausgerichtet) auf L und R gebaut (weiﬂ unten). Dieser Schritt sollte (nach der Zeit, aber unbedingt) intuitiv gemacht werden, aber ich werde trotzdem eine Methode erkl&auml;ren:
+Es werden (wie schon gesagt) 2 3x2x1 Bl&ouml;cke (unten ausgerichtet) auf L und R gebaut (wei√ü unten). Dieser Schritt sollte (nach der Zeit, aber unbedingt) intuitiv gemacht werden, aber ich werde trotzdem eine Methode erkl&auml;ren:
 <ol>
-<li>Baut auf der D-Seite (bei mir Weiﬂ) ein - (Strich), also wenn ihr weiﬂ unten und orange vorne habt, dann bringt ihr die Kanten wei&szlig;/blau und wei&szlig;/gr&uuml;n an ihre Positionen DL und DR<br />
+<li>Baut auf der D-Seite (bei mir Wei√ü) ein - (Strich), also wenn ihr wei√ü unten und orange vorne habt, dann bringt ihr die Kanten wei&szlig;/blau und wei&szlig;/gr&uuml;n an ihre Positionen DL und DR<br />
 <img alt="Schaubild" border="0" src="images/roux2.gif" /></li>
 <li>Wenn an den Positionen DF oder DB eine Edge weder (bei meiner Startfarbe) wei&szlig; noch (gegen&uuml;berliegende Farbe) gelb enth&auml;lt, dann ersetzt sie mit M-, und U-Bewegungen durch eine Edge, die eine dieser Farben enth&auml;lt.</li>
 <li>Mit den F2L der <a href="fridrich.php">Fridrich Methode</a> kannst du die 2 3x2x1 Bl&ouml;cke bilden. Fortgeschrittene (!) der Fridrich Methode brauchen Schritt 2 nicht und wissen, wie sie M-Bewegungen bei den F2L in Roux nutzen k&ouml;nnen oder machen die 2 Bl&ouml;cke ganz intuitiv.</li>
 </ol>
-<b>HINWEIS: Es spielt (noch) keine Rolle, wo sich die Centers befinden (auﬂer die, die in die 3x2x1-Bl&ouml;cke eingearbeitet sind). Also muss man das wei&szlig;e Center <u>nicht</u> unten haben, wenn ich sage, dass ich unten wei&szlig; habe. M ist (noch) frei beweglich.</b><br />
+<b>HINWEIS: Es spielt (noch) keine Rolle, wo sich die Centers befinden (au√üer die, die in die 3x2x1-Bl&ouml;cke eingearbeitet sind). Also muss man das wei&szlig;e Center <u>nicht</u> unten haben, wenn ich sage, dass ich unten wei&szlig; habe. M ist (noch) frei beweglich.</b><br />
 Nun k&ouml;nnte dein Cube so in etwa aussehen:<br />
 <img alt="Schaubild" border="0" src="images/roux1.gif" /><br />
 

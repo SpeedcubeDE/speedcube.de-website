@@ -1,20 +1,20 @@
 Hier habt ihr das Tutorial zur LbL-Methode oder auch Anf&auml;ngermethode genannt! Am Besten ihr lest euch das Text-Tutorial einmal durch, und wenn ihr es nicht ganz versteht, dann schaut euch das Video-Tutorial auch nochmal an!<br />
-<b>Viel Glück und Spaß!</b><hr />
+<b>Viel GlÃ¼ck und SpaÃŸ!</b><hr />
 
 
 <!-- Anfang Text-Tutorial -->
-<p>Diese Methode nennt sich LbL-Methode (Layer by Layer = Schicht für Schicht) und besteht aus 7 Schritten.<br />
+<p>Diese Methode nennt sich LbL-Methode (Layer by Layer = Schicht fÃ¼r Schicht) und besteht aus 7 Schritten.<br />
 Quasi jeder Anf&auml;nger beginnt mit dieser Methode (oder einer &auml;hnlichen Variation).<br />
 F&uuml;r dieses Tutorial musst du die <a href="notation.php">Basis-Notation</a> beherrschen!</p>
 <h2><b>1. Schritt: wei&szlig;es Kreuz</b></h2>
-Zuerst solltest du ein weißes Kreuz bilden und darauf achten, dass die Kanten an der
-richtigen Stelle sind. Das heißt, dass du z.B. zwischen dem weißen und dem blauen
-Mittelsteinen auch die weiß-blaue Kante positionierst! Das sollte man am Besten intuitiv
+Zuerst solltest du ein weiÃŸes Kreuz bilden und darauf achten, dass die Kanten an der
+richtigen Stelle sind. Das heiÃŸt, dass du z.B. zwischen dem weiÃŸen und dem blauen
+Mittelsteinen auch die weiÃŸ-blaue Kante positionierst! Das sollte man am Besten intuitiv
 probieren.<br />
-Ich sage außerdem deshalb weißes Kreuz, weil man sich eine Seite aussuchen, und dann
+Ich sage auÃŸerdem deshalb weiÃŸes Kreuz, weil man sich eine Seite aussuchen, und dann
 auch immer mit dieser Seite anfangen sollte. Der W&uuml;rfel l&auml;sst sich zwar auch l&ouml;sen, wenn
-du dir eine andere Seite als &quot;Startseite&quot; ausgesucht hast, aber dieses Tutorial ist für die
-weiße Seite ausgelegt.
+du dir eine andere Seite als &quot;Startseite&quot; ausgesucht hast, aber dieses Tutorial ist fÃ¼r die
+weiÃŸe Seite ausgelegt.
 Wenn die Kantensteine nach dem Positionieren an ihrer Stelle dann noch falsch gekippt sind, dann kannst du sie mit dem folgenden Algorithmus kippen:
 <font size="2">(die Fl&auml;chen, die in diesem 
 Moment noch unwichtig sind, sind grau markiert)</font>
@@ -28,9 +28,9 @@ Moment noch unwichtig sind, sind grau markiert)</font>
 
 <br /><h2>2. Schritt: Ecken der 1. Ebene</h2>
 Jetzt solltest du die Ecken einf&uuml;llen, um die 1. Ebene zu vervollst&auml;ndigen. Dazu drehst du
-eine Ecke, die eine weiße Stickerfläche hat, unter die Stelle, an der sie einmal hin soll
+eine Ecke, die eine weiÃŸe StickerflÃ¤che hat, unter die Stelle, an der sie einmal hin soll
 (indem du die untere Ebene drehst, hier die gelbe Ebene, also die Ebene mit dem gelben Mittelstein).<br />
-Anhand der Ausrichtung des weißen Stickers der Ecke kannst du nun ermitteln, wie du die Ecke richtig einf&uuml;gst:
+Anhand der Ausrichtung des weiÃŸen Stickers der Ecke kannst du nun ermitteln, wie du die Ecke richtig einf&uuml;gst:
 F&uuml;hre den passenden Algorithmus aus:
 
 <table border="0" cellspacing="5" cellpadding="2">
@@ -56,7 +56,7 @@ F&uuml;hre den passenden Algorithmus aus:
 
 <p>Diese Schritte wirst du mit ein bisschen &Uuml;bung auch ohne diese Algorithmen 
 k&ouml;nnen.</p>
-<p><u>Anmerkung:</u> Wenn sich auf der unteren Ebene keine Ecksteine mehr mit weiß befinden,
+<p><u>Anmerkung:</u> Wenn sich auf der unteren Ebene keine Ecksteine mehr mit weiÃŸ befinden,
 die 1. Ebene aber noch nicht gel&ouml;st ist, dann &quot;pack&quot; irgendeinen Stein aus der unteren
 Ebene durch einmaliges Ausf&uuml;hren eines beliebigen Algorithmus nach oben in die erste
 Ebene. Aber in keine Eckposition, wo die Ecke schon stimmt! (Danach hast du wieder eine
@@ -66,7 +66,7 @@ oben ist.</b></p>
 
 <br /><h2>3. Schritt: 2. Ebene bef&uuml;llen</h2>
 Wenn du die erste Ebene gebildet hast, dann musst du die obere Ebene (mit dem gelben Mittelstein) 
-so drehen, dass ein Kantenst&uuml;ck ohne gelb auf F (Front, also der vorderen Ebene) eine vertikale Linie bildet (insgesamt ein &quot;T&quot; nur falschherum):
+so drehen, dass ein Kantenst&uuml;ck ohne gelbÂ auf F (Front, also der vorderen Ebene) eine vertikale Linie bildet (insgesamt ein &quot;T&quot; nur falschherum):
 
 <table border="0" cellspacing="5" cellpadding="2">
 <tr><td><img border="0" src="images/lbl_tutorial5.gif" alt="Symbol" /></td>

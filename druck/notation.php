@@ -64,7 +64,7 @@ Das M steht nur f&uuml;r eine weitere Bewegung und die Klammern k&ouml;nnte man 
 <table>
 <tr><td>Symbol:</td><td></td><td><b>M</b></td><td><b>E</b></td><td><b>S</b></td></tr>
 <tr><td>Bedeutung:</td><td></td><td>Middle</td><td>Equator</td><td>Standing</td></tr>
-<tr><td>&Uuml;bersetzung:</td><td></td><td>vertikale Mitte </td><td>horizontale (äquatorial-) Mitte </td><td>frontale Mitte</td></tr>
+<tr><td>&Uuml;bersetzung:</td><td></td><td>vertikale Mitte </td><td>horizontale (Ã¤quatorial-) Mitte </td><td>frontale Mitte</td></tr>
 </table><br />
 Falls das nicht selbsterkl&auml;rend ist:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;Die vertikale Mitte M ist senkrecht und zwischen L und R!<br />
@@ -73,7 +73,7 @@ Falls das nicht selbsterkl&auml;rend ist:<br />
 
 Nun hat man das Problem, dass man nicht genau wei&szlig;, was jetzt in den Uhrzeigersinn und was gegen ihn sein soll... Daf&uuml;r gilt die sog. RUF-Regel (den Namen hab ich erfunden):<br />
 <b>RUF-Regel: Hauptbewegungen sind R, U und F</b><br />
-Bei 2 Bewegungen ist es genau umgekehrt, aber meißtens werden Cube-Rotations (Bewegung des ganzen Würfels) oder Slices (Bewegungen der Mitten) wie U, R oder F ausgef&uuml;hrt.<br />
+Bei 2 Bewegungen ist es genau umgekehrt, aber meiÃŸtens werden Cube-Rotations (Bewegung des ganzen WÃ¼rfels) oder Slices (Bewegungen der Mitten) wie U, R oder F ausgef&uuml;hrt.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;M: Wie R<b>'</b> (Achtung umgekehrt!), vertikale Mitte wird nach unten bewegt.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;E: Wie U<b>'</b> (Achtung umgekehrt!), die horizontale Mitte wird nach rechts bewegt!<br />
 &nbsp;&nbsp;&nbsp;&nbsp;S: Wie F (normal), die frontale Mitte wird nach rechts bzw. unten bewegt!<br /><br />

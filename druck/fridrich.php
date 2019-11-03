@@ -91,7 +91,7 @@ Noch ein Hinweis von mir: wenn du nurmehr einen Slot zu bef&uuml;llen hast, dann
 
 <a name="step3"></a><h2>Schritt 3: Orientation of the last layer (OLL)</h2><br />
 Wie der Name schon sagt, musst du die letzte Ebene orientieren, das hei&szlig;t, dass du alle Steine so kippst und drehst, dass oben nurnoch gelb ist. Ob die Steine dann untereinander richtig angeordnet sind, ist egal.<br />
-Dafür gibt es Algorithmen. Zu jedem 'Fall' der auftreten kann, hast du einen Algorithmus. Schau genau, in welche Richtungen die gelben Seiten zeigen und f&uuml;hre den entsprechenden Algorithmus aus.<br />
+DafÃ¼r gibt es Algorithmen. Zu jedem 'Fall' der auftreten kann, hast du einen Algorithmus. Schau genau, in welche Richtungen die gelben Seiten zeigen und f&uuml;hre den entsprechenden Algorithmus aus.<br />
 Der Einfachkeit und &Uuml;bersichtlichkeit halber solltest du erstmal das sogenannte <a target="_blank" href="fridrich_2look_oll.php">2-Look OLL</a> lernen, also machst du das normale <a target="_blank" href="fridrich_oll.php">OLL</a> in 2 Schritten.<br /><br />
 
 <a name="step4"></a><h2>Schritt 4: Permutation of the last layer (PLL)</h2><br />

@@ -15,7 +15,7 @@ if ($offline == 1) {
 <span style="display: inline-block; float: left;"><a href="http://www.cubikon.de" target="_blank"><img style="color:#FFFFFF;" border="0" src="images/cubikon.jpg" alt="Cubikon.de, brain-twisting games" />
 </a></span>
 <!--<span style="display: inline-block; float:left; color:white; background-color: #3333bb; width: auto; padding: 4px; margin: 6px;">
-	<p>Bitte nehmt zahlreich an der aktuell laufenden <a href="http://speedcube.de/forum/showthread.php?tid=7855" style="color:orange;">Cubikon Umfrage für zukünftige Produkte</a> teil!</p>
+	<p>Bitte nehmt zahlreich an der aktuell laufenden <a href="http://speedcube.de/forum/showthread.php?tid=7855" style="color:orange;">Cubikon Umfrage fÃ¼r zukÃ¼nftige Produkte</a> teil!</p>
 </span>-->
 <?php if ($ad) { ?>
 <script type="text/javascript">
@@ -30,7 +30,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 <?php } ?>
 </td>
-<td align="right" rowspan="2"><img border="0" src="images/zauberwuerfel_gross.png" alt="Zauberwürfel" /></td></tr>
+<td align="right" rowspan="2"><img border="0" src="images/zauberwuerfel_gross.png" alt="ZauberwÃ¼rfel" /></td></tr>
 <tr><td><p>Willkommen auf <strong>Speedcube.de</strong>, der deutschen Homepage &uuml;bers <strong>Speedcubing</strong> (= Den <strong>Zauberw&uuml;rfel</strong> auf Zeit m&ouml;glichst schnell l&ouml;sen ), hier k&ouml;nnt ihr selbst lernen, wie ihr den <strong>Rubiks Cube</strong> l&ouml;st, n&uuml;tzliche <strong>Quellen</strong> finden und noch viel mehr - oder falls ihr schon Zauberw&uuml;rfler seid, dann bekommt ihr hier alle <strong>Speedcubing</strong> <strong>Materialien</strong> und <strong>Informationen</strong> die man so braucht!</p></td></tr>
 </table>
 

@@ -64,7 +64,7 @@
 	<tr>
     	<td><img border="1" src="images/fav_dealextreme.jpg" /></td>
     	<td><b><a target="_blank" href="http://www.dealextreme.com/search.dx/search.cube">Dealextreme.com</a></b></td>
-        <td>Ein Allgemeinshop, der auch eine sehr groﬂe Auswahl an Puzzles und Speedcubing-Zeug hat.</td>
+        <td>Ein Allgemeinshop, der auch eine sehr gro√üe Auswahl an Puzzles und Speedcubing-Zeug hat.</td>
     </tr>
 	<tr>
     	<td><img border="1" src="images/fav_popbuying.jpg" /></td>
