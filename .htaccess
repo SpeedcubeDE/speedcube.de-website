@@ -1,2 +1,0 @@
-RewriteEngine On
-RewriteRule ^forum/(.*)$ https://forum.speedcube.de/$1 [R=301,NC,L]

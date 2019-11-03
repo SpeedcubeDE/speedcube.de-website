@@ -1,0 +1,90 @@
+1179262400[TIME_SPLITTER]<table cellpadding="4" cellspacing="16" border="0"><tr><td><b>Top 20 - Welt</b></td><td><b>Top 20 - Europa</b></td></tr>
+<tr><td><table cellpadding="2" cellspacing="3" border="0">
+<tr><td><b>Platz</b></td><td><b>Name</b></td><td><b>Zeit</b></td><td><b>Herkunft</b></td></tr><tr><td align="right">
+
+1</td><td>Floppy</td><td align="right">6.89</td><td>Deutschland</td></tr><tr><td align="right">
+2</td><td>Erik Akkersdijk</td><td align="right">7.08</td><td>Niederlande</td></tr><tr><td align="right">
+3</td><td>Harris Chan</td><td align="right">7.33</td><td>Kanada</td></tr><tr><td align="right">
+4</td><td>Kanneti Sae Han</td><td align="right">7.40</td><td>Frankreich</td></tr><tr><td align="right">
+5</td><td>Morten Arborg</td><td align="right">7.83</td><td>Norwegen</td></tr><tr><td align="right">
+6</td><td>Piti Pichedpan</td><td align="right">7.88</td><td>Thailand</td></tr><tr><td align="right">
+7</td><td>Tomasz Zolnowski</td><td align="right">7.91</td><td>Polen</td></tr><tr><td align="right">
+8</td><td>Feliks Zemdegs</td><td align="right">7.94</td><td>Australien</td></tr><tr><td align="right">
+9</td><td>Mats Valk</td><td align="right">8.13</td><td>Niederlande</td></tr><tr><td align="right">
+10</td><td>Kittikorn Tangsucharitthum</td><td align="right">8.25</td><td>Thailand</td></tr><tr><td align="right">
+11</td><td>Eric Limeback</td><td align="right">8.34</td><td>Kanada</td></tr><tr><td align="right">
+12</td><td>Shotaro Makisumi</td><td align="right">8.50</td><td>Japan</td></tr><tr><td align="right">
+13</td><td>Edouard Chambon</td><td align="right">8.66</td><td>Frankreich</td></tr><tr><td align="right">
+&nbsp;</td><td>John Tamanas</td><td align="right">8.66</td><td>USA</td></tr><tr><td align="right">
+15</td><td>Rowe Hessler</td><td align="right">8.72</td><td>USA</td></tr><tr><td align="right">
+&nbsp;</td><td>Yu Nakajima</td><td align="right">8.72</td><td>Japan</td></tr><tr><td align="right">
+17</td><td>Durben Joun Virtucio</td><td align="right">8.78</td><td>Philippinen</td></tr><tr><td align="right">
+18</td><td>Mitsuki Gunji</td><td align="right">8.81</td><td>Japan</td></tr><tr><td align="right">
+19</td><td>Syuhei Omura</td><td align="right">8.84</td><td>Japan</td></tr><tr><td align="right">
+20</td><td>Mil&aacute;n Baticz</td><td align="right">8.86</td><td>Ungarn</td></tr><tr>
+</table>	</td><td>
+<table cellpadding="2" cellspacing="3" border="0">
+<tr><td><b>Platz</b></td><td><b>Name</b></td><td><b>Zeit</b></td><td><b>Herkunft</b></td></tr><tr><td align="right">
+
+1</td><td>Floppy</td><td align="right">6.89</td><td>Deutschland</td></tr><tr><td align="right">
+2</td><td>Erik Akkersdijk</td><td align="right">7.08</td><td>Niederlande</td></tr><tr><td align="right">
+3</td><td>Kanneti Sae Han</td><td align="right">7.40</td><td>Frankreich</td></tr><tr><td align="right">
+4</td><td>Morten Arborg</td><td align="right">7.83</td><td>Norwegen</td></tr><tr><td align="right">
+5</td><td>Tomasz Zolnowski</td><td align="right">7.91</td><td>Polen</td></tr><tr><td align="right">
+6</td><td>Mats Valk</td><td align="right">8.13</td><td>Niederlande</td></tr><tr><td align="right">
+7</td><td>Edouard Chambon</td><td align="right">8.66</td><td>Frankreich</td></tr><tr><td align="right">
+8</td><td>Mil&aacute;n Baticz</td><td align="right">8.86</td><td>Ungarn</td></tr><tr><td align="right">
+9</td><td>Giovanni Contardi</td><td align="right">8.96</td><td>Italien</td></tr><tr><td align="right">
+10</td><td>Maarten Smit</td><td align="right">9.08</td><td>Niederlande</td></tr><tr><td align="right">
+11</td><td>Cornelius Dieckmann</td><td align="right">9.09</td><td>Deutschland</td></tr><tr><td align="right">
+12</td><td>Joey Gouly</td><td align="right">9.15</td><td>Gro&szlig;britannien</td></tr><tr><td align="right">
+&nbsp;</td><td>Lucas Garron</td><td align="right">9.15</td><td>Deutschland</td></tr><tr><td align="right">
+14</td><td>Adam Polkowski</td><td align="right">9.25</td><td>Polen</td></tr><tr><td align="right">
+15</td><td>Breandan Vallance</td><td align="right">9.28</td><td>Gro&szlig;britannien</td></tr><tr><td align="right">
+&nbsp;</td><td>Filippo Brancaleoni</td><td align="right">9.28</td><td>Italien</td></tr><tr><td align="right">
+17</td><td>Michal Robaczyk</td><td align="right">9.38</td><td>Polen</td></tr><tr><td align="right">
+18</td><td>Alejandro Aguado Barahona</td><td align="right">9.47</td><td>Spanien</td></tr><tr><td align="right">
+&nbsp;</td><td>Piotr Alexandrowicz</td><td align="right">9.47</td><td>Polen</td></tr><tr><td align="right">
+&nbsp;</td><td>Richard McKearney</td><td align="right">9.47</td><td>Gro&szlig;britannien</td></tr><tr><td align="right">
+</table></td></tr></table><table cellpadding="4" cellspacing="20" border="0"><tr><td><b>Top 10 - Deutschland</b></td><td><b>Top 10 - &Ouml;sterreich</b></td><td><b>Top 10 - Schweiz</b></td></tr><tr><td>
+<table cellpadding="2" cellspacing="3" border="0">
+<tr><td><b>Platz</b></td><td><b>Name</b></td><td><b>Zeit</b></td></tr><tr><td align="right">
+
+1</td><td>Floppy</td><td align="right">6.89</td></tr><tr><td align="right">
+2</td><td>Cornelius Dieckmann</td><td align="right">9.09</td></tr><tr><td align="right">
+3</td><td>Lucas Garron</td><td align="right">9.15</td></tr><tr><td align="right">
+4</td><td>Bj&ouml;rn Korbanka</td><td align="right">9.53</td></tr><tr><td align="right">
+5</td><td>Stefan Pochmann</td><td align="right">9.56</td></tr><tr><td align="right">
+6</td><td>Jan Smarschevski</td><td align="right">10.06</td></tr><tr><td align="right">
+7</td><td>Maximilian Neitzel</td><td align="right">10.52</td></tr><tr><td align="right">
+8</td><td>Jens Diewald</td><td align="right">11.09</td></tr><tr><td align="right">
+9</td><td>Pasquale Lombardozzi</td><td align="right">11.21</td></tr><tr><td align="right">
+10</td><td>Kai Jiptner</td><td align="right">11.42</td></tr><tr><td align="right">
+</table>	</td><td>
+<table cellpadding="2" cellspacing="3" border="0">
+<tr><td><b>Platz</b></td><td><b>Name</b></td><td><b>Zeit</b></td></tr><tr><td align="right">
+
+1</td><td>Stefan Huber</td><td align="right">9.47</td></tr><tr><td align="right">
+2</td><td>David Gugl</td><td align="right">12.28</td></tr><tr><td align="right">
+3</td><td>Martin Mairhofer</td><td align="right">12.96</td></tr><tr><td align="right">
+4</td><td>Florian Herzog</td><td align="right">15.03</td></tr><tr><td align="right">
+5</td><td>Michael R&ouml;hrer</td><td align="right">16.72</td></tr><tr><td align="right">
+6</td><td>Daniel Grabski</td><td align="right">17.66</td></tr><tr><td align="right">
+7</td><td>Sanio Kasumovic</td><td align="right">20.33</td></tr><tr><td align="right">
+8</td><td>David Diem</td><td align="right">28.63</td></tr><tr><td align="right">
+9</td><td>Jakob Laumer</td><td align="right">44.46</td></tr><tr><td align="right">
+10</td><td>Josef Trajber</td><td align="right">50.16</td></tr>
+</table>	</td><td>
+<table cellpadding="2" cellspacing="3" border="0">
+<tr><td><b>Platz</b></td><td><b>Name</b></td><td><b>Zeit</b></td></tr><tr><td align="right">
+
+1</td><td>Claudio M&uuml;ller</td><td align="right">14.43</td></tr><tr><td align="right">
+2</td><td>Sven Gowal</td><td align="right">15.61</td></tr><tr><td align="right">
+3</td><td>Erwan Kohler</td><td align="right">16.94</td></tr><tr><td align="right">
+4</td><td>Thomas Stadler</td><td align="right">17.50</td></tr><tr><td align="right">
+5</td><td>Federico Soldati</td><td align="right">20.41</td></tr><tr><td align="right">
+6</td><td>Alexandre Bard</td><td align="right">21.97</td></tr><tr><td align="right">
+7</td><td>Martin Silvestri</td><td align="right">24.44</td></tr><tr><td align="right">
+8</td><td>Pablo Verg&egrave;s</td><td align="right">35.59</td></tr><tr><td align="right">
+9</td><td>Brice Kohler</td><td align="right">54.91</td></tr><tr><td align="right">
+10</td><td>Guido Staub</td><td align="right">1:24.71</td></tr></table></td></tr></table><br />
