@@ -1,2 +1,3 @@
 RewriteEngine On
+RewriteRule ^forum$ https://forum.speedcube.de/ [R=301,NC,L]
 RewriteRule ^forum/(.*)$ https://forum.speedcube.de/$1 [R=301,NC,L]
