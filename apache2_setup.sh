@@ -4,7 +4,7 @@ ln -s "${parent_path}/www" /var/www/speedcube
 echo "
 <VirtualHost *:80>
         ServerName speedcube.de
-        ServerAlias neu.speedcube.de
+        ServerAlias www.speedcube.de
         DocumentRoot /var/www/speedcube
         <Directory \"/var/www/speedcube\">
                 AllowOverride All
