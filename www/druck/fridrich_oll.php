@@ -43,7 +43,8 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 	(Fw R U R' U' Fw') (F R U R' U' F')</b></code></td>
 </tr>
 <tr>
-	<td> OLL 10</td><td><img border="0" src="images/OLL10.png" alt="Symbol" /></td><td><code><b>F (R U R' U') (R U R' U') (R U R' U') F', oder<br />
+	<td> OLL 10</td><td><img border="0" src="images/OLL10.png" alt="Symbol" /></td><td><code><b>
+	F (R U R' U') (R U R' U') (R U R' U') F', oder<br />
 	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL10b.png'))" onmouseout="UnTip()">y</a> L U L' U L U' L' U L U2 L', oder<br />
 	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL10b.png'))" onmouseout="UnTip()">y</a> R' U' R U' R' U R U' R' U2 R</b></code></td>
 </tr>
@@ -90,19 +91,28 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 <b>"P"-Muster</b>
 <table cellpadding="6" cellspacing="0" border="0">
 <tr>
-	<td> OLL 20</td><td><img border="0" src="images/OLL20.png" alt="Symbol" /></td><td><code><b>Fw (R U R' U') Fw'</b></code></td>
+	<td> OLL 20</td><td><img border="0" src="images/OLL20.png" alt="Symbol" /></td><td><code><b>
+	Fw (R U R' U') Fw', oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL20b.png'))" onmouseout="UnTip()">y2</a> F U R U' R' F'
+	</b></code></td>
 </tr>
 <tr>
-	<td> OLL 21</td><td><img border="0" src="images/OLL21.png" alt="Symbol" /></td><td><code><b>Fw' (L' U' L U) Fw, oder<br />
-  <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL21b.png'))" onmouseout="UnTip()">y'</a> (R U R' F') U2 (F R U' R')</b></code></td>
+	<td> OLL 21</td><td><img border="0" src="images/OLL21.png" alt="Symbol" /></td><td><code><b>
+	Fw' (L' U' L U) Fw, oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL21c.png'))" onmouseout="UnTip()">y2</a> F' U' L' U L F, oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL21b.png'))" onmouseout="UnTip()">y'</a> (R U R' F') U2 (F R U' R')</b></code></td>
 </tr>
 <tr>
-	<td> OLL 22</td><td><img border="0" src="images/OLL22.png" alt="Symbol" /></td><td><code><b>(R Dw) (L' Dw') (R' U) (Lw U Lw'), oder <br />
-  <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL22b.png'))" onmouseout="UnTip()">y2</a> F U R U' F' Rw U R' U' Rw'</b></code></td>
+	<td> OLL 22</td><td><img border="0" src="images/OLL22.png" alt="Symbol" /></td><td><code><b>
+	(R Dw) (L' Dw') (R' U) (Lw U Lw'), oder <br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL22b.png'))" onmouseout="UnTip()">y2</a> L U F' U' L' U L F L'
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL22b.png'))" onmouseout="UnTip()">y2</a> F U R U' F' Rw U R' U' Rw'</b></code></td>
 </tr>
 <tr>
-	<td> OLL 23</td><td><img border="0" src="images/OLL23.png" alt="Symbol" /></td><td><code><b>(L' Dw') (R Dw) (L U') (Rw' U' Rw), oder<br />
-  <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL23b.png'))" onmouseout="UnTip()">y</a> F R' F' R U R U R' U' R U' R'</b></code></td>
+	<td> OLL 23</td><td><img border="0" src="images/OLL23c.png" alt="Symbol" /></td><td><code><b>
+	R' U' F U R U' R' F R, oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL23.png'))" onmouseout="UnTip()">y2</a>(L' Dw') (R Dw) (L U') (Rw' U' Rw), oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL23b.png'))" onmouseout="UnTip()">y'</a> F R' F' R U R U R' U' R U' R'</b></code></td>
 </tr>
 </table>
 
@@ -159,7 +169,10 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 <b>"C"-Muster</b>
 <table cellpadding="6" cellspacing="0" border="0">
 <tr>
-	<td> OLL 34</td><td><img border="0" src="images/OLL34.png" alt="Symbol" /></td><td><code><b>(R U R'2 U') (R' F) (R U) (R U') F'</b></code></td>
+	<td> OLL 34</td><td><img border="0" src="images/OLL34.png" alt="Symbol" /></td><td><code><b>
+	(R U R'2 U') (R' F) (R U) (R U') F', oder<br />
+	R U R' U' y' Rw' U' R U M'
+	</b></code></td>
 </tr>
 <tr>
 	<td> OLL 35</td><td><img border="0" src="images/OLL35b.png" alt="Symbol" /></td><td><code><b>R' U' R' F R F' U R, oder<br />
@@ -186,7 +199,9 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
   <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL38.png'))" onmouseout="UnTip()">y2</a> (Lw U L' U) (L U'2 Lw')</b></code></td>
 </tr>
 <tr>
-	<td> OLL 39</td><td><img border="0" src="images/OLL39b.png" alt="Symbol" /></td><td><code><b>Rw R2 U' R U' R' U2 R U' Rw' R, oder<br />
+	<td> OLL 39</td><td><img border="0" src="images/OLL39b.png" alt="Symbol" /></td><td><code><b>
+	M' R' U' R U' R' U2 R U' M, oder<br />
+	Rw R2 U' R U' R' U2 R U' Rw' R, oder<br />
   <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL39.png'))" onmouseout="UnTip()">y</a> F (R U R' U') F' U F (R U R' U') F'</b></code></td>
 </tr>
 <tr>
@@ -194,7 +209,9 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
   <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL40b.png'))" onmouseout="UnTip()">y2</a> Lw' U' L U' L' U2 Lw</b></code></td>
 </tr>
 <tr>
-	<td> OLL 41</td><td><img border="0" src="images/OLL41b.png" alt="Symbol" /></td><td><code><b>Rw' R2 U R' U R U2 R' U M', oder<br />
+	<td> OLL 41</td><td><img border="0" src="images/OLL41b.png" alt="Symbol" /></td><td><code><b>
+	M R U R' U R U2 R' U M', oder<br />
+	Rw' R2 U R' U R U2 R' U M', oder<br />
   <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL41.png'))" onmouseout="UnTip()">y</a> F' (L' U' L U) F U F (R U R' U') F'</b></code></td>
 </tr>
 </table>
@@ -225,27 +242,37 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 	<td> OLL 46</td><td><img border="0" src="images/OLL46.png" alt="Symbol" /></td><td><code><b>Fw (R U R' U') (R U R' U') Fw'</b></code></td>
 </tr>
 <tr>
-	<td> OLL 47</td><td><img border="0" src="images/OLL47.png" alt="Symbol" /></td><td><code><b>(R U R' U R Dw') (R U' R' F'), oder<br />
+	<td> OLL 47</td><td><img border="0" src="images/OLL47.png" alt="Symbol" /></td><td><code><b>
+	U' F R U R' y' U R' U' R U' R', oder<br />
+	(R U R' U R Dw') (R U' R' F'), oder<br />
   R' U' R U' R' U y' R' U R B</b></code></td>
 </tr>
 <tr>
 	<td> OLL 48</td><td><img border="0" src="images/OLL48.png" alt="Symbol" /></td><td><code><b>F (R U R' U' R) y' (R' F) (R B') (R' F')</b></code></td>
 </tr>
 <tr>
-	<td> OLL 49</td><td><img border="0" src="images/OLL49.png" alt="Symbol" /></td><td><code><b>(R' U2) (R'2 U) (R' U) (R U'2) x' (U' R' U)</b></code></td>
+	<td> OLL 49</td><td><img border="0" src="images/OLL49b.png" alt="Symbol" /></td><td><code><b>
+	R' F R U R U' R2 F' R2 U' R' U R U R', oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL49.png'))" onmouseout="UnTip()">y</a> (R' U2) (R'2 U) (R' U) (R U'2) x' (U' R' U)
+	</b></code></td>
 </tr>
 </table>
 
 <b>"Kick"-Muster</b>
 <table cellpadding="6" cellspacing="0" border="0">
 <tr>
-	<td> OLL 50</td><td><img border="0" src="images/OLL50.png" alt="Symbol" /></td><td><code><b>x' (R U' R' F') (R U R') xy (R' U R)</b></code></td>
+	<td> OLL 50</td><td><img border="0" src="images/OLL50b.png" alt="Symbol" /></td><td><code><b>
+	F U R U' R2 F' R U R U' R', oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL50.png'))" onmouseout="UnTip()">y2</a> x' (R U' R' F') (R U R') xy (R' U R)</b></code></td>
 </tr>
 <tr>
 	<td> OLL 51</td><td><img border="0" src="images/OLL51.png" alt="Symbol" /></td><td><code><b>(Rw U Rw') (R U R' U') (Rw U' Rw')</b></code></td>
 </tr>
 <tr>
-	<td> OLL 52</td><td><img border="0" src="images/OLL52.png" alt="Symbol" /></td><td><code><b>x' (L' U L F) (L' U' L) xy' (L U' L')</b></code></td>
+	<td> OLL 52</td><td><img border="0" src="images/OLL52b.png" alt="Symbol" /></td><td><code><b>
+	R' F R U R' F' R y' R U' R', oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL52.png'))" onmouseout="UnTip()">y2</a> x' (L' U L F) (L' U' L) xy' (L U' L')
+	</b></code></td>
 </tr>
 <tr>
 	<td> OLL 53</td><td><img border="0" src="images/OLL53.png" alt="Symbol" /></td><td><code><b>(Lw' U' Lw) (L' U' L U) (Lw' U Lw)</b></code></td>
@@ -255,16 +282,24 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 <b>ung&uuml;nstige Muster</b>
 <table cellpadding="6" cellspacing="0" border="0">
 <tr>
-	<td> OLL 54</td><td><img border="0" src="images/OLL54.png" alt="Symbol" /></td><td><code><b>(R U') (R' U2) (R U) y (R U') (R' U' F')</b></code></td>
+	<td> OLL 54</td><td><img border="0" src="images/OLL54.png" alt="Symbol" /></td><td><code><b>
+	U2 R U R' U R U2 R' F R U R' U' F', oder<br />
+	(R U') (R' U2) (R U) y (R U') (R' U' F')</b></code></td>
 </tr>
 <tr>
-	<td> OLL 55</td><td><img border="0" src="images/OLL55.png" alt="Symbol" /></td><td><code><b>(R'2 U R' B') (R U') (R'2 U) (Lw U Lw')</b></code></td>
+	<td> OLL 55</td><td><img border="0" src="images/OLL55b.png" alt="Symbol" /></td><td><code><b>
+	F U R U2 R' U' R U2 R' U' F', oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL55.png'))" onmouseout="UnTip()">y2</a> (R'2 U R' B') (R U') (R'2 U) (Lw U Lw')</b></code></td>
 </tr>
 <tr>
-	<td> OLL 56</td><td><img border="0" src="images/OLL56.png" alt="Symbol" /></td><td><code><b>(L' U) (L U'2) (L' U') y' (L' U) (L U F)</b></code></td>
+	<td> OLL 56</td><td><img border="0" src="images/OLL56.png" alt="Symbol" /></td><td><code><b>
+	R' U' R U' R' U2 R F R U R' U' F', oder<br />
+	(L' U) (L U'2) (L' U') y' (L' U) (L U F)</b></code></td>
 </tr>
 <tr>
-	<td> OLL 57</td><td><img border="0" src="images/OLL57.png" alt="Symbol" /></td><td><code><b>(L2 U' L B) (L' U) (L2 U') (Rw' U' Rw)</b></code></td>
+	<td> OLL 57</td><td><img border="0" src="images/OLL57b.png" alt="Symbol" /></td><td><code><b>
+	R U R' U' R U' R' F' U' F R U R'
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL57.png'))" onmouseout="UnTip()">y'</a> (L2 U' L B) (L' U) (L2 U') (Rw' U' Rw)</b></code></td>
 </tr>
 </table>
 <b>Quellen: cubewhiz.com (Bob Burton), speedsolving.com, diverse Speedcuber (u.a. Tobias Droste), eigene Ableitungen</b>
