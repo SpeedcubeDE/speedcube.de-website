@@ -28,7 +28,9 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 </tr>
 <tr>
 	<td> PLL 03<br />
-    E-Perm.</td><td><img border="0" src="images/PLL03.png" alt="Symbol" /></td><td><code><b>x' R U' R' D R U R' Uw2 R' U R D R' U' R, oder<br />
+    E-Perm.</td><td><img border="0" src="images/PLL03.png" alt="Symbol" /></td><td><code><b>
+    x' R U' R' D R U R' D' R U R' D R U' R' D', oder<br />
+    x' R U' R' D R U R' Uw2 R' U R D R' U' R, oder<br />
     x' R U' R' D R U R' D2 L' U L D L' U' L, oder<br />
     z' R' F R2 U R' B' R U' R2 F' R z R B R', oder<br />
     <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('PLL03b.png'))" onmouseout="UnTip()">y</a> x U R' U' L U R U' r2' U' R U L U' R' U, oder<br />
@@ -40,7 +42,9 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 <table cellpadding="6" cellspacing="0" border="0">
 <tr>
 	<td> PLL 04<br />
-    Z-Perm.</td><td><img border="0" src="images/PLL04.png" alt="Symbol" /></td><td><code><b>M2 U M2 U M' U2 M2 U2 M' U2, oder<br />
+    Z-Perm.</td><td><img border="0" src="images/PLL04.png" alt="Symbol" /></td><td><code><b>
+    M2 U M2 U M' U2 M2 U2 M' U2, oder<br />
+    <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('PLL04b.png'))" onmouseout="UnTip()">y</a> M2 U' M2 U' M' U2 M2 U2 M' U2, oder<br />
     R2 U' R2 U R2 x' U2 R2 F U2 F' R2 U2, oder<br />
     R' U L' E2 L U' R L' U R' E2 R U' L', oder<br />
     U' l' U R U' D' R U D' R U' R' D2, oder<br />
@@ -48,7 +52,9 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 </tr>
 <tr>
 	<td> PLL 05<br />
-    H-Perm.</td><td><img border="0" src="images/PLL05.png" alt="Symbol" /></td><td><code><b>M2 U M2 U2 M2 U M2, oder<br />
+    H-Perm.</td><td><img border="0" src="images/PLL05.png" alt="Symbol" /></td><td><code><b>
+    M2 U M2 U2 M2 U M2, oder<br />
+    M2 U' M2 U2 M2 U' M2, oder<br />
     R2' r2 U' L2 l2' U2 R2' r2 U' L2 l2', oder<br />
     F2 M2 F2 U' F2 M2 F2 U, oder<br />
     x U2 M2 U2 B' U2 M2 U2 B, oder<br />
@@ -114,7 +120,9 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 </tr>
 <tr>
 	<td> PLL 13<br />
-    F-Perm.</td><td><img border="0" src="images/PLL13.png" alt="Symbol" /></td><td><code><b>R U' R' U R2 y R U R' U' F' Dw R2 F R F', oder<br />
+    F-Perm.</td><td><img border="0" src="images/PLL13.png" alt="Symbol" /></td><td><code><b>
+    R U' R' U R2 y R U R' U' F' Dw R2 F R F', oder<br />
+    <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('PLL13c.png'))" onmouseout="UnTip()">y'</a> R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R, oder<br />
     <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('PLL13c.png'))" onmouseout="UnTip()">y'</a> U R U' R' U R2 y R U R' U' x U' R' U R U2, oder<br />
     <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('PLL13d.png'))" onmouseout="UnTip()">y</a> z R U R' U' R U2 (z'y') R U R' U' (yx) L' U' L U L2, oder<br />
     <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('PLL13b.png'))" onmouseout="UnTip()">y2</a> R' U R U' R2' F' U' F U R U' x' R2 U' R' U, oder<br />
@@ -126,14 +134,18 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 <table cellpadding="6" cellspacing="0" border="0">
 <tr>
 	<td> PLL 14<br />
-    V-Perm.</td><td><img border="0" src="images/PLL14.png" alt="Symbol" /></td><td><code><b>R' U R' Dw' x Lw' U R' U' Lw R U' R' U R U, oder<br />
+    V-Perm.</td><td><img border="0" src="images/PLL14.png" alt="Symbol" /></td><td><code><b>
+    R' U R' Dw' R' F' R2 U' R' U R' F R F, oder<br />
+    R' U R' Dw' x Lw' U R' U' Lw R U' R' U R U, oder<br />
     R' U R' U' y R' F' R2 U' R' U R' F R F, oder<br />
     <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('PLL14c.png'))" onmouseout="UnTip()">y2</a> R U' L' U R' U' R U' L U R' U2 L' U2 L, oder<br />
     <a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('PLL14b.png'))" onmouseout="UnTip()">y</a> L' U R U' L U L' U R' U' L U2 R U2 R'</b></code></td>
 </tr>
 <tr>
 	<td> PLL 15<br />
-    N-Perm.</td><td><img border="0" src="images/PLL15.png" alt="Symbol" /></td><td><code><b>R U' R' U Lw U F U' R' F' R U' R U Lw' U R', oder<br />
+    N-Perm.</td><td><img border="0" src="images/PLL15.png" alt="Symbol" /></td><td><code><b>
+    R U R' U R U R' F' R U R' U' R' F R2 U' R' U2 R U' R', oder<br />
+    R U' R' U Lw U F U' R' F' R U' R U Lw' U R', oder<br />
     L U' L' U L F U F' L' U' L F' L F L' U L', oder<br />
     F' R U R' U' R' F R2 F U' R' U' R U F' R', oder<br />
     L U' R U2 L' U R' L U' R U2 L' U R' U', oder<br />
@@ -141,7 +153,9 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 </tr>
 <tr>
 	<td> PLL 16<br />
-    N-Perm.</td><td><img border="0" src="images/PLL16.png" alt="Symbol" /></td><td><code><b>L' U L U' Rw' U' F' U L F L' U L' U' Rw U' L, oder<br />
+    N-Perm.</td><td><img border="0" src="images/PLL16.png" alt="Symbol" /></td><td><code><b>
+    (R' U L' U2 R U' L) (R' U L' U2 R U' L) (U), oder<br />
+    L' U L U' Rw' U' F' U L F L' U L' U' Rw U' L, oder<br />
     z U' R D' R2' U R' (U' D) R D' R2 U R' D R, oder<br />
     L' U R' U2' L U' L' R U R' U2' L U' R U, oder<br />
     R' U R U' R' F' U' F R U R' F R' F' R U' R</b></code></td>
