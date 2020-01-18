@@ -242,10 +242,10 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 	<td> OLL 46</td><td><img border="0" src="images/OLL46.png" alt="Symbol" /></td><td><code><b>Fw (R U R' U') (R U R' U') Fw'</b></code></td>
 </tr>
 <tr>
-	<td> OLL 47</td><td><img border="0" src="images/OLL47.png" alt="Symbol" /></td><td><code><b>
-	U' F R U R' y' U R' U' R U' R', oder<br />
-	(R U R' U R Dw') (R U' R' F'), oder<br />
-  R' U' R U' R' U y' R' U R B</b></code></td>
+	<td> OLL 47</td><td><img border="0" src="images/OLL47b.png" alt="Symbol" /></td><td><code><b>
+	F R U R' y' U R' U' R U' R', oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL47.png'))" onmouseout="UnTip()">y</a> (R U R' U R Dw') (R U' R' F'), oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL47.png'))" onmouseout="UnTip()">y</a> R' U' R U' R' U y' R' U R B</b></code></td>
 </tr>
 <tr>
 	<td> OLL 48</td><td><img border="0" src="images/OLL48.png" alt="Symbol" /></td><td><code><b>F (R U R' U' R) y' (R' F) (R B') (R' F')</b></code></td>
@@ -282,9 +282,9 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 <b>ung&uuml;nstige Muster</b>
 <table cellpadding="6" cellspacing="0" border="0">
 <tr>
-	<td> OLL 54</td><td><img border="0" src="images/OLL54.png" alt="Symbol" /></td><td><code><b>
-	U2 R U R' U R U2 R' F R U R' U' F', oder<br />
-	(R U') (R' U2) (R U) y (R U') (R' U' F')</b></code></td>
+	<td> OLL 54</td><td><img border="0" src="images/OLL54b.png" alt="Symbol" /></td><td><code><b>
+	R U R' U R U2 R' F R U R' U' F', oder<br />
+	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL54.png'))" onmouseout="UnTip()">y2</a> (R U') (R' U2) (R U) y (R U') (R' U' F')</b></code></td>
 </tr>
 <tr>
 	<td> OLL 55</td><td><img border="0" src="images/OLL55b.png" alt="Symbol" /></td><td><code><b>
@@ -298,8 +298,8 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 </tr>
 <tr>
 	<td> OLL 57</td><td><img border="0" src="images/OLL57b.png" alt="Symbol" /></td><td><code><b>
-	R U R' U' R U' R' F' U' F R U R'
+	R U R' U' R U' R' F' U' F R U R', oder<br />
 	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL57.png'))" onmouseout="UnTip()">y'</a> (L2 U' L B) (L' U) (L2 U') (Rw' U' Rw)</b></code></td>
 </tr>
 </table>
-<b>Quellen: cubewhiz.com (Bob Burton), speedsolving.com, diverse Speedcuber (u.a. Tobias Droste), eigene Ableitungen</b>
+<b>Quellen: cubewhiz.com (Bob Burton), speedsolving.com, diverse Speedcuber (u.a. Tobias Droste, alexicg), eigene Ableitungen</b>
