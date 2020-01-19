@@ -14,4 +14,4 @@ Ich distanziere mich hiermit von verlinkten Seiten (auf die ich keinen Einfluss 
 Die Buttons vom Kopfbereich wurden mit dem kostenlosen Button-Generator von interwebline.de erstellt.<br />
 Diverse Icons stammen von famfamfam.com.<br /><br />
 
-Die Algorithmen stammen von cubewhiz.com oder speedsolving.com
+Die Algorithmen stammen von cubewhiz.com, speedsolving.com, diversen Speedcubern (u.a. Tobias Droste, Alexander Botz) oder eigenen Ableitungen

@@ -302,4 +302,4 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL57.png'))" onmouseout="UnTip()">y'</a> (L2 U' L B) (L' U) (L2 U') (Rw' U' Rw)</b></code></td>
 </tr>
 </table>
-<b>Quellen: cubewhiz.com (Bob Burton), speedsolving.com, diverse Speedcuber (u.a. Tobias Droste, alexicg), eigene Ableitungen</b>
+<small>Woher die Algorithmen stammen steht bei <a href="shops.php">Websites & Shops</a> bzw. im <a href="impressum.php">Impressum</a>!</small>
