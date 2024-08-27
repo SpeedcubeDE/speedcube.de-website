@@ -110,7 +110,7 @@ Alle Symbole (Bilder) zeigen die obere (gelbe) Ebene U, Orientierung: &uarr;B &d
 </tr>
 <tr>
 	<td> OLL 23</td><td><img border="0" src="images/OLL23c.png" alt="Symbol" /></td><td><code><b>
-	R' U' F U R U' R' F R, oder<br />
+	R' U' F U R U' R' F' R, oder<br />
 	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL23.png'))" onmouseout="UnTip()">y2</a>(L' Dw') (R Dw) (L U') (Rw' U' Rw), oder<br />
 	<a onclick="return false;" href="#" style="color:#FF8C00;" onmouseover="Tip(image('OLL23b.png'))" onmouseout="UnTip()">y'</a> F R' F' R U R U R' U' R U' R'</b></code></td>
 </tr>
